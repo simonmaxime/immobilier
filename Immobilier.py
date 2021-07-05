@@ -81,8 +81,8 @@ df_no_outliers = df[~(df["outlier"])]
 
 
 # On exporte notre nouvelle table
-df_no_outliers.to_csv("paris-2020.csv", index=False, encoding='utf8')
-df_no_outliers.to_excel("paris-2020.xlsx", index=False, encoding='utf8')
+df_no_outliers.to_csv("short-2020.csv", index=False, encoding='utf8')
+df_no_outliers.to_excel("short-2020.xlsx", index=False, encoding='utf8')
 
 
 

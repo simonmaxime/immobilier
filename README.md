@@ -17,3 +17,4 @@ Script Python Cadastre.py :
 Permet le géocodage des sections cadastrales qui permettra une hierarchie géographique plus fine dans Tableau Public
 
 Visualisation sur Tableau Public : https://public.tableau.com/app/profile/maxime.simon/viz/ImmobilierParis/Tableaudebord1
+Disponible également via le fichier Immobilier Paris.twbx
